@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/router.ts","./src/vite-env.d.ts","./src/services/nhlservice.ts","./src/types/task.ts","./src/app.vue","./src/components/helloworld.vue","./src/pages/about.vue","./src/pages/home.vue","./src/pages/tasks.vue"],"version":"5.6.2"}
